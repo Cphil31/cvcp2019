@@ -7,5 +7,5 @@
 @endsection
 
 @section('content')
-<h2>Page Compétences</h2>
+<div class="texte">Page Compétences </div>
 @endsection

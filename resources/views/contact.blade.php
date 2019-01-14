@@ -7,5 +7,5 @@
 @endsection
 
 @section('content')
-<h2>Page Contact</h2>
+<div class="texte">Page Contact</div>
 @endsection

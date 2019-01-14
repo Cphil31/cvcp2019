@@ -7,5 +7,5 @@
 @endsection
 
 @section('content')
-<h2>Page Formations</h2>
+<div class="texte">Page Formations</div>
 @endsection
