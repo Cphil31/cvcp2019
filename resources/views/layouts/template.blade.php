@@ -6,23 +6,23 @@
     </head>
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand nom" href="/">Cecile Philippe</a>
+            <a class="navbar-brand" id="nom" href="/">Cecile Philippe Développeur</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav  navtext">
                 <li class="nav-item ">
-                    <a class="nav-link" href="/competences">Compétences <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" id="titrenav" href="/competences">Compétences <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/formations">Formations</a>
+                    <a class="nav-link" id="titrenav" href="/formations">Formations</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/experiences">Expériences</a>
+                    <a class="nav-link" id="titrenav" href="/experiences">Expériences</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/contact">Contact</a>
+                    <a class="nav-link" id="titrenav" href="/contact">Contact</a>
                 </li>
                 
                 

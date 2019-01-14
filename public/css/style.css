@@ -1,6 +1,9 @@
-.nom{
-    color :red;
-    font-size: 5em;
+#nom{
+    color :blue;
+    font-size: 40px;
+}
+#titrenav{
+    color: red;
 }
 .navtext{
     margin-left: auto;
