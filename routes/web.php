@@ -11,6 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', "PagesController@index");
+
+
+Route::get('/test', "PagesController@index");
+Route::get('/competences', "PagesController@competences");
+Route::get('/experiences', "PagesController@experiences");
+Route::get('/formations', "PagesController@formations");
+Route::get('/contact', "PagesController@contact");

@@ -5,10 +5,32 @@
         <link rel="stylesheet" href="../css/style.css">
     </head>
     <body>
-        @section('sidebar')
-        @show
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand nom" href="/">Cecile Philippe</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav  navtext">
+                <li class="nav-item ">
+                    <a class="nav-link" href="/competences">Compétences <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/formations">Formations</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/experiences">Expériences</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/contact">Contact</a>
+                </li>
+                
+                
+                </ul>
+            </div>
+        </nav>
 
-        <div class="container">
+        <div class="container-fluid">
             @yield('content')
         </div>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

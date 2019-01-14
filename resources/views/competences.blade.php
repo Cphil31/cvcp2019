@@ -3,10 +3,9 @@
 @section('title', 'Page Title')
 
 @section('sidebar')
-    
+
 @endsection
 
 @section('content')
-
-<h1>Page d'acceuil</h1>
+<h2>Page compétences</h2>
 @endsection
