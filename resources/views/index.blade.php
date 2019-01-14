@@ -7,12 +7,7 @@
 @endsection
 
 @section('content')
-
-<h1>Page d'acceuil</h1>
-
-<p class="text-left">Left aligned text on all viewport sizes.</p>
-<p class="text-center">Center aligned text on all viewport sizes.</p>
-<p class="text-right">Right aligned text on all viewport sizes.</p>
+<div class="texte">Page d'acceuil </div>
 
 
 @endsection

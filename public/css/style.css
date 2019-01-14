@@ -1,11 +1,15 @@
 #nom{
-    color :blue;
-    font-size: 40px;
+    color :red;
+    font-size: 30px;
 }
 #titrenav{
     color: red;
+    font-size: 25px;
 }
 .navtext{
     margin-left: auto;
     font-size: 2em;
+}
+.Texte{
+    color:blue;
 }
