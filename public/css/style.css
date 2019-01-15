@@ -8,7 +8,8 @@
 }
 .texte{
     text-align: center;
-    font-size: 2em;
+    color: red;
+    font-size: 3em;
 }
 .navtext{
     margin-left: auto;

@@ -22,6 +22,10 @@ class PagesController extends Controller
         return view ("formations");
     }
 
+    public function loisirs (){
+        return view ("loisirs");
+    }
+
     public function contact (){
         return view ("contact");
     }

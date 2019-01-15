@@ -23,6 +23,9 @@
                     <a class="nav-link" id="titrenav" href="/experiences">Expériences</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" id="titrenav" href="/loisirs">Loisirs</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" id="titrenav" href="/contact">Contact</a>
                 </li>
                 

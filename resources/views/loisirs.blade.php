@@ -7,6 +7,7 @@
 @endsection
 
 @section('content')
-<div class="texte">Développeur d'applications web</div>
+<div class="texte">Page loisirs</div>
+<div class="texte">Dj, guitare, footing, body attack, séries, cinéma, restaurants  </div>
 
 @endsection
