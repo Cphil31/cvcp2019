@@ -7,9 +7,9 @@
 @endsection
 
 @section('content')
-<div class="texte">Framework :Symfony , Laravel, Jquery , Worldpress</div>
-<div class="texte">Langages informatiques : HTML, CSS, Javasript, PHP, Mysql</div>
-<div class="texte">Logiciels Photoshop et Illustrator</div>
-<div class="texte">Logiciels de traitement de textes et tableurs</div>
-<div class="texte">Systèmes d'exploitation Linux, Windows, Apple</div>
+<div class="texte">Framework :Symfony , Laravel, Worldpress</div>
+<div class="texte">Langages  : HTML, CSS, Javasript, PHP, Mysql</div>
+<div class="texte"> Photoshop , Illustrator</div>
+<div class="texte">Traitement de textes et Tableurs</div>
+<div class="texte">OS : Linux, Windows, Apple</div>
 @endsection
