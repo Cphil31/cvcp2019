@@ -7,27 +7,29 @@
 @endsection
 
 @section('content')
-<div class="container-fluid">
-  <div class="row">
-  <div class="col-sm"></div>
-    <div class="col-sm-1">
-      <div class="texteform">2017</div>
-    </div>
-    <div class="col-md-7">
-        <div class="texteform">Certification de Développeur web</div>
-    </div>
-    <div class="col-sm"></div>
-  </div>
-
-  <div class="row">
-  <div class="col-sm"></div>
-    <div class="col-sm-1">
-      <div class="texteform">2003</div>
-    </div>
-    <div class="col-md-7">
-        <div class="texteform">BAC STT Option Informatique de Gestion</div>
-    </div>
-    <div class="col-sm"></div>
-  </div>
+   
+        <div class="container">  
+    <table class="table table-striped">
+        <thead>
+            <tr class="">
+                <th scope="col">Année</th>
+                <th scope="col">Titre</th>
+                <th scope="col">Etablissement</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr >
+                <th scope="row">2003</th>
+                <td>Certification de Développeur web</td>
+            <td>Simplon</td>
+        </tr>
+            <tr>
+            <th scope="row">2013</th>
+            <td>BAC STT Option Informatique de Gestion </td>
+            <td>Baimbridge</td>
+            </tr>
+            
+        </tbody>
+    </table>
 </div>
 @endsection
