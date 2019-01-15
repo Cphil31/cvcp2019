@@ -1,7 +1,11 @@
 #nom{
 font-size:5em;
-color:blue; 
+color:red; 
 }
 .texte{
     font-size: 6em;
+}
+#titrenav{
+    color: red;
+    font-size: 2em;
 }
