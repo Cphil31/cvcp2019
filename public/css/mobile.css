@@ -16,6 +16,7 @@ color:red;
     font-size: 3em;
     margin-left: auto;
 }
-.textecomp{
+.textecomp,
+.container{
     font-size: 3em;
 }
