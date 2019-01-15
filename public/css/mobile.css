@@ -2,7 +2,7 @@
 font-size:5em;
 color:red; 
 }
-.texte{
+.texte,.textecomp{
     font-size: 300%;
 }
 #titrenav{
