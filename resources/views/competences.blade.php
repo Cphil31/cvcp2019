@@ -7,7 +7,7 @@
 @endsection
 
 @section('content')
-<div class="textecomp">Framework :Symfony , Laravel, Worldpress</div>
+<div class="textecomp">Framework: Symfony , Laravel, Worldpress</div>
 <div class="textecomp">Langages: HTML, CSS, Javasript, PHP, Mysql</div>
 <div class="textecomp"> Photoshop , Illustrator</div>
 <div class="textecomp">Traitement de textes et Tableurs</div>

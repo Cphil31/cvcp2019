@@ -8,6 +8,4 @@
 
 @section('content')
 <div class="texte">Page d'acceuil </div>
-
-
 @endsection

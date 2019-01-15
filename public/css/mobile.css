@@ -1,12 +1,9 @@
-#nom{
-font-size:5em;
-color:red; 
-}
+
 .texte{
     font-size: 300%;
 }
 #titrenav{
-    color: red;
+    color: blue;
     font-size: 2em;
 }
 .container-fluid{
