@@ -12,6 +12,6 @@ color:red;
 .container-fluid{
     margin-top: 22%;
 }
-button{
-    font-size: 1em;
+#button{
+    font-size: 3em;
 }
