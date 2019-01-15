@@ -7,7 +7,6 @@
 @endsection
 
 @section('content')
-<div class="texte">Page Compétences </div>
 <div class="texte">Framework :Symfony , Laravel, Jquery , Worldpress</div>
 <div class="texte">Langages informatiques : HTML, CSS, Javasript, PHP, Mysql</div>
 <div class="texte">Logiciels Photoshop et Illustrator</div>
