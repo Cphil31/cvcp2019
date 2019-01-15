@@ -1,6 +1,6 @@
 @extends('layouts.template')
 
-@section('title', 'Page Title')
+@section('title', 'compétences')
 
 @section('sidebar')
 
