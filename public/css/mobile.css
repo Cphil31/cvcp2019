@@ -1,4 +1,7 @@
-
+#nom{
+    color :blue;
+    font-size: 2em;
+}
 .texte{
     font-size: 300%;
 }
