@@ -10,9 +10,12 @@
     margin-left: auto;
     font-size: 2em;
 }
-.Texte{
+.textecomp{
     font-size: 2em;
     text-align: center;
+}
+.texteform{
+    font-size: 2em;
 }
 .container-fluid{
     margin-top: 100px;
