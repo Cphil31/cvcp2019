@@ -1,9 +1,9 @@
 #nom{
-    color :blue;
+    color :red;
     font-size: 30px;
 }
 #titrenav{
-    color: blue;
+    color: red;
     font-size: 25px;
 }
 .texte{
@@ -15,6 +15,7 @@
     font-size: 2em;
 }
 .textecomp{
+    color: red;
     font-size: 2em;
     text-align: center;
 }
@@ -27,4 +28,7 @@
 .datexp{
     font-size: 2em;
     text-align: center;  
+}
+#table{
+    color:red;
 }

@@ -8,7 +8,7 @@
 
 @section('content')
 <div class="container">  
-    <table class="table table-striped">
+    <table id="table" class="table table-striped">
         <thead>
             <tr class="">
                 <th scope="col">Année</th>
