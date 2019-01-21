@@ -14,11 +14,11 @@
             <div class="row">
             <div class="col">
             <label for="exampleInputName">Nom</label>
-            <input type="text" class="form-control" placeholder="Cecile">
+            <input type="text" class="form-control" placeholder="Doe">
             </div>
             <div class="col">
             <label for="exampleInputPrenom">Prénom</label>
-            <input type="text" class="form-control" placeholder="Philippe">
+            <input type="text" class="form-control" placeholder="John">
             </div>
         </div>
         <label for="exampleInputEmail1">Mail</label>
