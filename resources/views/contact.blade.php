@@ -13,10 +13,12 @@
         <div class="form-group">
             <div class="row">
             <div class="col">
-            <input type="text" class="form-control" placeholder="Nom">
+            <label for="exampleInputName">Nom</label>
+            <input type="text" class="form-control" placeholder="Cecile">
             </div>
             <div class="col">
-            <input type="text" class="form-control" placeholder="Prénom">
+            <label for="exampleInputPrenom">Prénom</label>
+            <input type="text" class="form-control" placeholder="Philippe">
             </div>
         </div>
         <label for="exampleInputEmail1">Mail</label>
@@ -31,10 +33,10 @@
 
     <div class="form-group">
     <label for="exampleFormControlTextarea1">Message</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="4"></textarea>
     </div>
     
-    <button type="submit" class="btn btn-primary">Envoyer</button>
+    <button type="submit" class="btn btn-primary btn-lg btn-block">Envoyer</button>
     </form>
 </div>
 @endsection
